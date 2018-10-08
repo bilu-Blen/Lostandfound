@@ -1,0 +1,13 @@
+Input - 
+Lost item 
+lost or found value to existing items
+Process- 
+1. prompt the user to enter a lost or found item
+2. save the lost 
+3. found item
+4. prompt the user if she/he wants to see all the items in catgories 
+5. when there are no items, still show a sentemce 
+6. undelete deleted items ..? 
+7. add items
+8. Prompt the user if they want to make existing items either lost or found
+Process
